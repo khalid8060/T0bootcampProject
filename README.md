@@ -1,4 +1,4 @@
-## Exploratory Data Analysis Project Workflows
+## Saudi Used Cars Dataset Analysis
 
 The goal of this project was to EDA (Exploration Data Analysis) approach to figure this data out and discover valuable information. The used car dataset is downloaded from the popular website ([Kaggle](https://www.kaggle.com/turkibintalib/saudi-arabia-used-cars-dataset)) and I used various charts to get many paramount insights. In addition, I handled missing data by using four different techniques.
 This repository contanins the following:
